@@ -1,0 +1,21 @@
+{
+    "name": "pandogream/str",
+    "description": "Security package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-0": {
+            "StrUtil": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mahmud",
+            "email": "mamatovmahmud1999@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0"
+    }
+}
